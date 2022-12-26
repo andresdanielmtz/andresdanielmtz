@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+<head> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
+</head> 
 <h2 align="center"> 
 Hi there, I'm Andrés Daniel 👋
 
@@ -7,16 +9,17 @@ Hi there, I'm Andrés Daniel 👋
 CS Student @ ITESM 🇲🇽
 </h3>
 
+</a>
 
 - 📚 Freshman Computer Science Student at Tecnológico de Monterrey, Campus Sonora Norte
 - 🖥️ Tech Enthusiast 
 - 🌱 Currently working on mobile development with Swift.
 
 - LinkedIn: [Andrés Daniel](https://www.linkedin.com/in/andresdanielmtz/)
- 
+  
+<img height = 300 width = 300 src = "https://github-readme-stats.vercel.app/api?username=andresdanielmtz&show_icons=true&theme=dracula" alt = "Andrés Martínez Stats"/>
+<img height = 300 width = 300 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=andresdanielmtz&layout=compact&theme=dracula" alt = "Andrés Martínez Programming Language Logos"/>
 
-![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresdanielmtz&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresdanielmtz&layout=compact&theme=dracula)
- 
 <!--
 
 style="font-size: 30px" 

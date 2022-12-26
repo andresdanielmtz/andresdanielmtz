@@ -3,22 +3,20 @@
 # Hi there, I'm Andrés Martínez 👋
 **`CS Student @ ITESM`**
 
- 
-- 📚 Freshman Computer Science Student at Tecnológico de Monterrey, Campus Sonora Norte
-- 🖥️ Tech Enthusiast 
-- 🌱 Currently working on mobile development with Swift.
+I am a Freshman Computer Science Student at Tecnologico de Monterrey, Campus Sonora Norte. My main goal is to create a better world for everyone. 
 
-- LinkedIn: [Andrés Daniel](https://www.linkedin.com/in/andresdanielmtz/)
-  
-![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresdanielmtz&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresdanielmtz&layout=compact&theme=dracula)
+- 🖥️ Tech Enthusiast 
+- 🎓 Self-taught programmer
+- 🌱 Currently learning `iOS Development` 
+
+> You can contact me at my Linkedin: [Andrés Daniel](https://www.linkedin.com/in/andresdanielmtz/)
+#
+![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresdanielmtz&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox)
 
 <!--
-
-style="font-size: 30px" 
-
 width = "30"
-
  -->
+
 
 <div style= "text-align: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" width = "30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width = "30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width = "30"/>

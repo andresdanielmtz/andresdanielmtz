@@ -9,7 +9,7 @@ I am a Freshman Computer Science Student at Tecnologico de Monterrey, Campus Son
 - 🎓 Self-taught programmer
 - 🌱 Currently learning `iOS Development` 
 
-> You can contact me at my Linkedin: [Andrés Daniel](https://www.linkedin.com/in/andresdanielmtz/)
+> You can contact me at my Linkedin: [Andrés Daniel](https://www.linkedin.com/in/andrés-daniel-mart%C3%ADnez-bermúdez-997b17249/)
 #
 ![Andrés' GitHub stats](https://github-readme-stats.vercel.app/api?username=andresdanielmtz&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox)
 

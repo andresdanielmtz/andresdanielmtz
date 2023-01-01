@@ -7,7 +7,7 @@ I am a Freshman Computer Science Student at Tecnologico de Monterrey, Campus Son
 
 - 🖥️ Tech Enthusiast 
 - 🎓 Self-taught programmer
-- 🌱 Currently learning `iOS Development` 
+- 🌱 Currently learning `Web Development` 
 
 > You can contact me at my Linkedin: [Andrés Daniel](https://www.linkedin.com/in/andrés-daniel-mart%C3%ADnez-bermúdez-997b17249/)
 #

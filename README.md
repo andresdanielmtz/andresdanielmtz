@@ -11,7 +11,7 @@ I am a Freshman Computer Science Student at Tecnologico de Monterrey, Campus Son
 
 > You can contact me at my Linkedin: [Andrés Daniel](https://www.linkedin.com/in/andrés-daniel-mart%C3%ADnez-bermúdez-997b17249/)
 #
-![Andrés' GitHub stats](readme-stats-instance-april2023.vercel.app/api?username=andresdanielmtz&show_icons=true&theme=gruvbox) ![Top Langs](readme-stats-instance-april2023.vercel.app/api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox)
+![Andrés' GitHub stats](https://readme-stats-instance-april2023-andresdanielmtz.vercel.app//api?username=andresdanielmtz&show_icons=true&theme=gruvbox) ![Top Langs](https://readme-stats-instance-april2023-andresdanielmtz.vercel.app//api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox)
 
 <!--
 width = "30"

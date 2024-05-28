@@ -4,7 +4,7 @@
 
 **`CS Student @ ITESM`**
 
-I am a Sophomore Computer Science Student at Tecnologico de Monterrey, Campus Sonora Norte. My main goal is to create a better world for everyone.
+I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Campus Sonora Norte. My main goal is to create a better world for everyone.
 
 - 🖥️ Tech Enthusiast
 - 🎓 Self-taught programmer

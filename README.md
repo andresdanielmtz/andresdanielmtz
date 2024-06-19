@@ -9,16 +9,16 @@
     </div>
     <div style = "margin-left: 10px">
         <samp>
-                <h1>Hi! Nice to meet you, I'm Andrés Martínez 👋</h1>
+                <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
             <strong>CS Student @ ITESM</strong>
-            <p>I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Campus Sonora Norte (And soon to be in Guadalajara!). My main goal is to create a better world for everyone.</p>
+            <p>I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Campus Sonora Norte (And soon to be in Guadalajara!). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast</li>
                 <br/>🎓 Self-taught programmer
                 <br/>🌱 Currently learning VueJS and Data Structures & Algorithms!
             </ul>
-            <p>You can contact me on LinkedIn: <a href="https://www.linkedin.com/in/andrés-daniel-mart%C3%ADnez-bermúdez-997b17249/" target="_blank">Andrés Martínez</a> <br/>
-            Feel free to also checkout <a href="https://andresdanielmtz.netlify.app/">my website</a></p>
+            <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin </a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>
+            Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!</p>
         </samp>
         <hr/>
     </div>

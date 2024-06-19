@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </head>
 <body>
-    <div style="float: left; margin-right: 20px;">
+    <div style="float: left; margin-right: 35px;">
         <img src="images/chip.png" width="250" align="left"/>
     </div>
     <div style = "margin-left: 10px">

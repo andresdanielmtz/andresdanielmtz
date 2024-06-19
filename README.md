@@ -21,6 +21,9 @@
         </samp>
         <hr/>
     </div>
+    <br/>
+    <br/>
+    <br/>
          <div>
             <img width = "250" src="https://readme-stats-instance-april2023-andresdanielmtz.vercel.app//api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox" alt="Top Languages"/>
         </div>

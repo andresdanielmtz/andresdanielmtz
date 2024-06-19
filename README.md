@@ -5,7 +5,7 @@
 </head>
 <body>
     <div style="float: left; margin-right: 20px;">
-        <img src="images/chip.png" width="250" align="left"/>
+        <img src="images/chip.png" width="260" align="left"/>
     </div>
     <div>
         <h1>Hi! Nice to meet you, I'm Andrés Martínez 👋</h1>
@@ -21,8 +21,8 @@
         </samp>
         <hr/>
     </div>
-     <div>
-            <img src="https://readme-stats-instance-april2023-andresdanielmtz.vercel.app//api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox" alt="Top Languages"/>
+         <div>
+            <img width = "250" src="https://readme-stats-instance-april2023-andresdanielmtz.vercel.app//api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox" alt="Top Languages"/>
         </div>
     <div style="text-align: center; margin-top: 20px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30"/>

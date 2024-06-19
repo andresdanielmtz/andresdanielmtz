@@ -5,11 +5,11 @@
 </head>
 <body>
     <div style="float: left; margin-right: 35px;">
-        <img src="images/chip.png" width="250" align="left"/>
+        <img src="images/main.png" width="260" align="left"/>
     </div>
     <div style = "margin-left: 10px">
-        <h1>Hi! Nice to meet you, I'm Andrés Martínez 👋</h1>
         <samp>
+                <h1>Hi! Nice to meet you, I'm Andrés Martínez 👋</h1>
             <strong>CS Student @ ITESM</strong>
             <p>I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Campus Sonora Norte. My main goal is to create a better world for everyone.</p>
             <ul style = "margin-left: 20px">

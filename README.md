@@ -20,14 +20,11 @@
             <p>You can contact me on LinkedIn: <a href="https://www.linkedin.com/in/andrés-daniel-mart%C3%ADnez-bermúdez-997b17249/" target="_blank">Andrés Daniel</a></p>
         </samp>
         <hr/>
-                 <div>
-            <img width = "250" src="https://readme-stats-instance-april2023-andresdanielmtz.vercel.app//api/top-langs/?username=andresdanielmtz&layout=compact&theme=gruvbox" alt="Top Languages"/>
-        </div>
     </div>
     <br/>
     <br/>
     <br/>
-    <div style="text-align: center; margin-top: 20px;">
+    <div style="text-align: center; margin-top: 20px; margin-top: 90px">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30"/>

@@ -5,7 +5,7 @@
 </head>
 <body>
     <div style="float: left; margin-right: 20px;">
-        <img src="images/chip.png" width="260" align="left"/>
+        <img src="images/chip.png" width="230" align="left"/>
     </div>
     <div>
         <h1>Hi! Nice to meet you, I'm Andrés Martínez 👋</h1>

@@ -11,7 +11,7 @@
         <samp>
                 <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
             <strong>CS Student @ ITESM</strong>
-            <p>I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
+            <p>I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast</li>
                 <br/>🎓 Self-taught programmer

@@ -11,11 +11,11 @@
         <samp>
                 <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
             <strong>CS Student @ ITESM</strong>
-            <p>I am a Second-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
+            <p>I am a Third-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast</li>
                 <br/>🎓 Self-taught programmer
-                <br/>🌱 Currently learning VueJS and Data Structures & Algorithms!
+                <br/>🌱 Currently learning Astro and Data Structures & Algorithms!
             </ul>
             <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin </a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>
             Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!</p>

@@ -13,11 +13,12 @@
             <strong>CS Student @ ITESM</strong>
             <p>I am a Third-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
             <ul style = "margin-left: 20px">
-                🖥️ Tech Enthusiast</li>
+                🖥️ Tech Enthusiast
                 <br/>🎓 Self-taught programmer
                 <br/>🌱 Currently learning Astro and Data Structures & Algorithms!
+                <br/>🎉 Intern @ IBM!
             </ul>
-            <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin </a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>
+            <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin</a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>
             Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!</p>
         </samp>
         <hr/>
@@ -47,6 +48,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30"/>
-    </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" />
+
 </body>
 </html>

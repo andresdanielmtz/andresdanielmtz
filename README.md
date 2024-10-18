@@ -5,7 +5,7 @@
 </head>
 <body>
     <div style="float: left; margin-right: 50px;">
-        <img src="images/main.png" width="260" align="left"/>
+        <img src="images/snow.png" width="260" align="left"/>
     </div>
     <div style = "margin-left: 10px">
         <samp>

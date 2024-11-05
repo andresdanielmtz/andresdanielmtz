@@ -18,7 +18,7 @@
                 <br/>🌱 Currently learning Astro and Data Structures & Algorithms!
                 <br/>🎉 Intern @ IBM!
             </ul>
-            <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin</a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>
+            <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin</a>.<br/>
             Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!</p>
         </samp>
         <hr/>

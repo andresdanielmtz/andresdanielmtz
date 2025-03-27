@@ -16,7 +16,7 @@
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast
                 <br/>🎓 Self-taught programmer
-                <br/>🌱 Currently learning Astro and Data Structures & Algorithms!
+                <br/>🌱 Currently learning Springboot!
                 <br/>🎉 Intern @ IBM!
                 <br/>✨ Incoming SWE Intern @ Oracle!
             </ul>

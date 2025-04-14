@@ -1,7 +1,7 @@
 <!-- andresdanielmtz/README.md -->
 
 <div style="display: flex; align-items: center;">
-  <img src="images/blackandwhite.png" alt="Andrés Martínez" width="300" style="margin-right: 20px;" />
+  <img src="images/blackandwhite.png" alt="Andrés Martínez" width="200" style="margin-right: 20px;" />
 
   <div>
     <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>

@@ -3,12 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Andrés Martínez</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </head>
 <body>
   <div style="float: left; margin-right: 50px;">
-    <img src="images/blackandwhite.png" width="260" height="400" alt="Snow graphic" />
+    <img src="images/blackandwhite.png" width="260" alt="Snow graphic" />
   </div>
 
   <div style="margin-left: 10px;">

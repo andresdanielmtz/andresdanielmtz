@@ -1,31 +1,26 @@
 <!-- andresdanielmtz/README.md -->
 
-<table>
-  <tr>
-    <td width="160">
-      <img src="images/blackandwhite.png" width="150" alt="Andrés Martínez" />
-    </td>
-    <td>
-      <samp>
-        <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
-        <b>CS Student @ ITESM</b><br />
-        I am a Third-Year Computer Science Student at Tecnológico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte).<br />
-        My main goal is to create a better world for everyone by using technology and leadership skills!<br /><br />
+<div style="display: flex; align-items: center;">
+  <img src="images/blackandwhite.png" alt="Andrés Martínez" width="300" style="margin-right: 20px;" />
 
-        🖥️ Tech Enthusiast<br />
-        🎓 Self-taught programmer<br />
-        🌱 Currently learning Spring Boot!<br />
-        🎉 Intern @ IBM<br />
-        ✨ Incoming SWE Intern @ Oracle!<br /><br />
+  <div>
+    <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
+    <b>CS Student @ ITESM</b><br />
+    I am a Third-Year Computer Science Student at Tecnológico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte).<br />
+    My main goal is to create a better world for everyone by using technology and leadership skills!<br /><br />
 
-        You can contact me on <a href="https://www.linkedin.com/in/andresdanielmtz/">LinkedIn</a>.<br />
-        Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!
-      </samp>
-    </td>
-  </tr>
-</table>
+    🖥️ Tech Enthusiast<br />
+    🎓 Self-taught programmer<br />
+    🌱 Currently learning Spring Boot!<br />
+    🎉 Intern @ IBM<br />
+    ✨ Incoming SWE Intern @ Oracle!<br /><br />
 
----
+    You can contact me on <a href="https://www.linkedin.com/in/andresdanielmtz/">LinkedIn</a>.<br />
+    Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!
+  </div>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" />

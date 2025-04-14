@@ -6,11 +6,10 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 </head>
 <body>
-  <div style="float: left; margin-right: 50px;">
-    <img src="images/blackandwhite.png" width="260" alt="Snow graphic" />
-  </div>
+<div style="display: flex; align-items: flex-start; gap: 50px;">
+  <img src="images/blackandwhite.png" width="260" alt="Snow graphic" style="flex-shrink: 0;" />
 
-  <div style="margin-left: 10px;">
+  <div>
     <samp>
       <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
       <strong>CS Student @ ITESM</strong>
@@ -29,8 +28,11 @@
         Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!
       </p>
     </samp>
-    <hr />
   </div>
+</div>
+
+---
+
 
   <div style="text-align: center; margin-top: 90px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" alt="Python" />

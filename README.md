@@ -16,8 +16,7 @@
             <p>I am a Third-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast
-                <br/>🎓 Self-taught programmer
-                <br/>🌱 Currently learning Astro and Data Structures & Algorithms!
+                <br/>🌱 Currently learning Java and DevOps!
                 <br/>🎉 Intern @ IBM!
                 <br/>✨ Incoming SWE Intern @ Oracle!
             </ul>

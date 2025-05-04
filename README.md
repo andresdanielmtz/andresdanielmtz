@@ -17,7 +17,7 @@
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast
                 <br/>🌱 Currently learning Java and DevOps!
-                <br/>🎉 Intern @ IBM!
+                <br/>🧠 Ex-Intern @ IBM!
                 <br/>✨ Incoming SWE Intern @ Oracle!
             </ul>
             <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin</a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>

@@ -16,9 +16,9 @@
             <p>I am a Third-Year Computer Science Student at Tecnologico de Monterrey, Campus Guadalajara (Prev. Campus Sonora Norte). My main goal is to create a better world for everyone by using technology and leadership skills!</p>
             <ul style = "margin-left: 20px">
                 🖥️ Tech Enthusiast
+                <br/>✨ SWE Intern @ Oracle!
                 <br/>🌱 Currently learning PHP and Go!
                 <br/>🧠 Ex-Intern @ IBM!
-                <br/>✨ Incoming SWE Intern @ Oracle!
             </ul>
             <p>You can contact me on <a href = "https://www.linkedin.com/in/andresdanielmtz/">Linkedin</a> or through <a href ="mailto@andresdanielmtz">my email.</a><br/>
             Feel free to also visit <a href="https://andresdanielmtz.netlify.app/">my website</a>!</p>

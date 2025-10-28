@@ -4,9 +4,11 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </head>
 <body>
+    <!--
     <div style="float: left; margin-right: 50px;">
-        <img src="images/main.png" width="260" align="left"/>
+         <img src="images/main.png" width="260" align="left"/>
     </div>
+     -->
     <div style = "margin-left: 10px">
         <samp>
                 <h1>Hi! Nice to meet you, I'm Andrés Martínez</h1>
